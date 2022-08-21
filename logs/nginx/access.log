@@ -1,0 +1,6 @@
+172.23.0.1 - - [21/Aug/2022:03:54:22 +0000] "GET / HTTP/1.1" 200 11 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
+172.23.0.1 - - [21/Aug/2022:03:54:22 +0000] "GET /favicon.ico HTTP/1.1" 200 30894 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
+172.23.0.1 - - [21/Aug/2022:03:54:24 +0000] "GET / HTTP/1.1" 200 11 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
+172.23.0.1 - - [21/Aug/2022:03:54:24 +0000] "GET /favicon.ico HTTP/1.1" 200 30894 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
+172.23.0.1 - - [21/Aug/2022:03:54:48 +0000] "GET / HTTP/1.1" 200 11 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
+172.23.0.1 - - [21/Aug/2022:03:54:48 +0000] "GET /favicon.ico HTTP/1.1" 404 278 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0" "-"
